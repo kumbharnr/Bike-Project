@@ -26,7 +26,7 @@ body {
     width: 100vw;
     display: block;
     position: relative;
-    background-image: linear-gradient(rgba(182, 53, 53, 0.7), rgba(0, 0, 0, 0.6)), url('/bikess.jpg');
+    background-image: linear-gradient(rgba(182, 53, 53, 0.7), rgba(0, 0, 0, 0.6)), url('bikess.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -168,15 +168,15 @@ section:nth-child(odd) {
 }
 
 #parallex-set-1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/bike2.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('bike2.jpeg');
 }
 
 #parallex-set-2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/bike2.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('bike2.jpeg');
 }
 
 #parallex-set-3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/bike3.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('bike3.jpeg');
 }
 
 .item-box {
